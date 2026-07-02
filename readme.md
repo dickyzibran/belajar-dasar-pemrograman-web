@@ -4,6 +4,9 @@
 A static anime-themed website about Nobara Kugisaki from the anime and manga series Jujutsu Kaisen. This website was built using HTML and CSS, featuring a modern dark mode design with a neon aesthetic that is fully responsive across different screen sizes.
 
 The website contains various information about Nobara Kugisaki, including her profile, abilities, personality, role in the story, and interesting facts about the character. In addition, there is a sidebar section that provides brief information about Jujutsu Kaisen.
+<a href="https://dickyzibran.github.io/basic-profile-template/" target="_blank">
+  Click here to view
+</a>
 
 <img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/d223ad27-4a5a-4616-8bd5-fde2af34a055" />
 
